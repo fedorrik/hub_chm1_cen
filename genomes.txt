@@ -1,0 +1,6 @@
+genome chm1_cen
+trackDb trackDb.txt
+twoBitPath chm1_cen.2bit
+organism Human 
+defaultPos chm1_cenXv3:1-4950000
+
