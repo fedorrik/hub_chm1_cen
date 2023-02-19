@@ -50,3 +50,15 @@ type bigBed 9
 itemRgb on
 maxItems 100000
 
+track shared
+type bigBed
+bigDataUrl bb/shared.bb
+shortLabel Shared ASat HOR
+longLabel Shared ASat HOR
+itemRgb on
+group Centromere
+priority 5
+visibility dense
+type bigBed 9
+itemRgb on
+maxItems 100000
